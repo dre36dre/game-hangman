@@ -349,6 +349,7 @@ public final class HangmanGame {
         rebuildHangman(found.toArray(HangmanChar[]:: new ));
     }
 
+    
     @Override
     public String toString() {
         return this.hangman;
