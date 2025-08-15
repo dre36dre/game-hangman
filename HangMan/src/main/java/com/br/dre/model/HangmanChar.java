@@ -1,6 +1,7 @@
 package com.br.dre.model;
 
 
+
 public class HangmanChar {
 
     private final char character;
