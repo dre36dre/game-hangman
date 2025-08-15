@@ -4,10 +4,7 @@ package com.br.dre;
 import java.util.Scanner;
 import java.util.stream.Stream;
 
-import dio.br.com.exception.GameIsFinishedException;
-import dio.br.com.exception.LetterAlreadyInputedException;
-import dio.br.com.model.HangmanChar;
-import dio.br.com.model.HangmanGame;
+
 
 public class Main {
 
