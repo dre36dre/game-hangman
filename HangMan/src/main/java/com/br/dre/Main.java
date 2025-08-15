@@ -4,6 +4,8 @@ package com.br.dre;
 import java.util.Scanner;
 import java.util.stream.Stream;
 
+import com.br.dre.model.HangmanChar;
+
 
 
 public class Main {
