@@ -3,7 +3,7 @@ package com.br.dre.model;
 
 public enum HangmanGameStatus {
 
-        PENDING,
+        PENDING, 
         WIN,
         LOSE
 
